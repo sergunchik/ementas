@@ -29,12 +29,11 @@ Cubic Surfaces.
 
 #### Some highlights
 - Blaise Pascal and the mystic hexagon
-- varieties of linear/tensor algebra and varieties of matrices:
-Veronese, С. Serge, Grassmann, flags, determinantal
-- secants and tangents, tangent space, Gauss map, projective duality, singularity and dimension
+- varieties of matrices and tensors: Veronese, С. Serge, Grassmann, flags, determinantal
+- secants and tangents, tangent space, Gauss map, projective duality
 - group law on the cubic curve
-- Poncelet's porism (+ explanation + (maybe) demonstration)
-- how many lines in a space intersect four given lines? (intro to Schubert calculus)
+- Poncelet's porism
+- how many lines in a space intersect four given lines? (->Schubert calculus)
 - the 27 lines on the cubic surface (+ Cremona's proof)
 
 #### Basic bibliography and pre-requisites.
