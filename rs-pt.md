@@ -33,7 +33,7 @@ então é provavelmente realista chegar ao Capítulo 9.
 
 Para o DMAT PUC-Rio o livro corresponde a dois cursos de pós-graduação semestrais, 3 créditos cada:
 Superfícies de Riemann I (MAT2815) e Superfícies de Riemann II (MAT2816),
-com o ponto de demarcação em algum lugar em torno do Capítulo 9-10-11.
+com o ponto de demarcação em algum lugar em torno dos Capítulos 9-10-11,
 mas com espírito e material de geometria/topologia extra em seu tratamento.
 
 #### Conteúdo
@@ -59,7 +59,7 @@ mas com espírito e material de geometria/topologia extra em seu tratamento.
         Quocientes.
  5. **Calculo sobre as superfícies**:
    i. Superfícies lisas: espaços cotangentes e 1-formas; 2-formas e integração.
-   ii. Coomologia de De Rham: definição e exemplos; coomologia com suporte compacto, e dualidade de Poincaré.
+   ii. Cohomologia de De Rham: definição e exemplos; cohomologia com suporte compacto, e dualidade de Poincaré.
    iii. Cálculo sobre superfícies de Riemann: decomposição das 1-formas;
 		o operador de Laplace e funções harmônicas;
 		a norma de Dirichlet.
@@ -160,7 +160,7 @@ Grande teorema de Picard.
 ##### MAT2816 - Superfícies de Riemann II
 
 ###### Ementa
-Feixes. Funções algébricas. Grupo fundamental e (co)homologia singular das superfícies de Riemann compactas. Monodromia. Curvas algébricas. Divisores, fibrados em retas, fibrado canônico. Sistemas lineares, aplicações no espaço projetivo. Coomologia de feixes, teoremas de finitude. Teorema de Dolbeault. Dualidade de Serre. Teorema de Riemann-Roch. Formas harmônicas. Anulamento da cohomologia, fibrados em retas amplos, imersão no espaço projetivo. Curvas hiperélipticas. Grupo de Picard. Jacobiana. Teorema de Abel. Teorema de Jacobi. Aplicações às curvas algébricas e as suas Jacobianas.
+Feixes. Funções algébricas. Grupo fundamental e (co)homologia singular das superfícies de Riemann compactas. Monodromia. Curvas algébricas. Divisores, fibrados em retas, fibrado canônico. Sistemas lineares, aplicações no espaço projetivo. Cohomologia de feixes, teoremas de finitude. Teorema de Dolbeault. Dualidade de Serre. Teorema de Riemann-Roch. Formas harmônicas. Anulamento da cohomologia, fibrados em retas amplos, imersão no espaço projetivo. Curvas hiperélipticas. Grupo de Picard. Jacobiana. Teorema de Abel. Teorema de Jacobi. Aplicações às curvas algébricas e as suas Jacobianas.
  
 ###### Bibliografia básica:
  1. Foster, O. Lectures on Riemann Surfaces, Springer-Verlag, 1981
