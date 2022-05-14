@@ -4,14 +4,20 @@
 
 1. Modular groups, modular functions, modular forms. Fundamental domains. Finite dimensionality of spaces of modular forms.
 2. Eisenstein series. The discriminant, Ramanujan’s Delta and tau functions. Dedekind’s eta-function.
-3. Theta-series. Jacobi forms.
+3. Theta-series.
 4. Hecke eigenseries and L-series.
-5. Differential operators: derivatives of modular forms, Rankin-Cohen brackets, quasi-modular forms. Heat equation.
+5. Differential operators: derivatives of modular forms, Rankin-Cohen brackets, quasi-modular forms.
 6. Complex multiplication.
+
+Possible bonus topics: Jacobi modular forms and heat equation.
+Functional equation for Riemann's zeta-function
+(as a quick corollary of modularity of Jacobi theta function).
 
 #### For whom
 
 Course might be useful for those interested in applications of analysis to arithmetics and geometry, combinatorics, algebra, differential equations, algebraic geometry.
+
+####
 
 \newpage
 #### Teaser: modular form as the fifth element
@@ -37,11 +43,7 @@ are constructed from scratch as a toy model for further development of the theor
 with new proofs of some beautiful formulae of Leonhard Euler. Weil retells this story in first chapter of his book.
 
 
-
 The theory of modular forms and elliptic functions / curves was started in early 19th century in the works of Abel, Jacobi, Riemann, Eisenstein, Kronecker, Dedekind, Weierstrass.
-
-- Gauss
-- Korkin-Zolotarev.
 
 By the end of 19th century modular forms were conceptualized as the simplest example of automorphic form
 by Klein, Fricke, and Poincaré. 
@@ -49,10 +51,25 @@ Early 20th century saw important contributions by Ramanujan (and Hardy, Littlewo
 and especially Hecke.  These three periods of the development of the theory of modular forms that took
 a little more than a century is the classical core of the course.
 
+A part of the theory of modular forms, a theory of theta-series
+is much related to the theory of integer quadratic forms.
+It starts from Gauss's study of binary and ternary quadratic forms in his Disquisitiones Arithmeticae,
+includes the construction of E8 lattice of Korkin-Zolotarev in 19th century,
+and Leech lattice and Niemeyer's lattices of rank 24 in 20th century.
+One of the application of basic theory of modular forms is an easy proof of classification
+of Niemeyer lattices by Boris Venkov, one of the short applications in the course.
+The last decade's proofs that Korkin-Zolotarëv and Leech lattices provide
+the densest sphere-packings in dimensions 8 and 24 by Viazovska, Radchenko and others
+is also based on construction of explicit nice modular forms.
 
-- Langlands
-- Moonshine
-- Viazovska
+
+In 20th century important development is the program of Langlands (1960s-now)
+of which Modularity Theorem is now seen as one of first solved parts,
+and Mostrous Moonshine,
+a relation between modular forms and sporadic finite simple groups
+discovered by McKay, Thompson, Conway and Norton,
+and explained by Borcherds, partially by mathematical realizations
+of some ideas originating in quantum field theory.
 
 
 ### Prerequisites
