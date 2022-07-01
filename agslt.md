@@ -1,5 +1,7 @@
 # Algebraic Geometry and Statistical Learning
 
+[Clique para votar para o melhor horário](https://forms.gle/62PPiPSd5vUNSMic7)
+
 On one hand we will introduce the basics of statistical machine learning, and on the other
 the basics of algebraic geometry and singularity theory, employed by author
 to study singular statistical models (and all real world models are singular).
