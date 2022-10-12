@@ -5,7 +5,7 @@
   /
   Introduction to complex analysis.
   [MAT1510](http://www.mat.puc-rio.br/en/syllabi#item-22)
-- Variável comlexa.
+- Variável complexa.
   [MAT2502](https://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=MAT2502)
   /
   Analysis in one complex variable.
@@ -15,7 +15,7 @@
 Números complexos.
 Definição e propriedades das funções elementares: potências, exponenciais, logaritmo e funções trigonométricas.
 Funções analíticas.
-Equações de Cauchy-Riemann.
+Equações de Cauchy--Riemann.
 Integração, funções definidas por integrais.
 Fórmula de Cauchy.
 Teoremas do Módulo Máximo.
@@ -39,32 +39,32 @@ Classification of singularities.
 The residue theorem.
 
 #### Ementa PG
-Derivada complexa; equaçoes de Cauchy-Riemann.
-Séries de potencias; funçoes analiticas.
+Derivada complexa; equações de Cauchy--Riemann.
+Séries de potencias; funções analíticas.
 Integrais de linha complexas.
 Índice de uma curva, homotopia.
 Teorema de Cauchy; formula integral de Cauchy; curvas homólogas.
 Teoremas de Morera e Goursat.
-Polos. Series de Laurent. Resíduos. Esfera de Riemann; funçoes meromorfas.
+Polos. Series de Laurent. Resíduos. Esfera de Riemann; funções meromorfas.
 Teorema do módulo máximo.
 Lema de Schwartz.
-Aplicaçoes de Möbius; cross-ratio.
-Familias normais, teorema de Montel.
-Teorema da aplicaçao de Riemann.
+Aplicações de Möbius; [cross-ratio](https://pt.wikipedia.org/wiki/Razão_anarmônica).
+Famílias normais, teorema de Montel.
+Teorema da aplicação de Riemann.
 Tópicos adicionais. 
 
 #### PG syllabus
-Complex derivative; Cauchy-Riemann equations.
-Power series; analytic functions.
-Complex line integrals.
-Index of a curve, homotopy.
-Cauchy’s theorem; Cauchy’s integral formula. Homologous curves.
-[Morera](https://en.wikipedia.org/wiki/Morera's_theorem) and [Goursat’s](https://ncatlab.org/nlab/show/Goursat+theorem) theorems.
-Poles. Laurent series. Residuals. Riemann sphere; meromorphic functions.
+[Complex derivative](https://en.wikipedia.org/wiki/Holomorphic_function); [Cauchy--Riemann equations](https://en.wikipedia.org/wiki/Cauchy–Riemann_equations).
+[Power series](https://en.wikipedia.org/wiki/Power_series); [analytic functions](https://en.wikipedia.org/wiki/Analytic_function).
+[Complex line integrals](https://en.wikipedia.org/wiki/Line_integral#Complex_line_integral).
+[Index of a curve](https://en.wikipedia.org/wiki/Winding_number#Complex_analysis), homotopy.
+[Cauchy’s theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem); [Cauchy’s integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula). Homologous curves.
+[Morera](https://en.wikipedia.org/wiki/Morera%27s_theorem) and [Goursat’s](https://ncatlab.org/nlab/show/Goursat+theorem) theorems.
+[Poles](https://en.wikipedia.org/wiki/Zeros_and_poles). [Laurent series](https://en.wikipedia.org/wiki/Laurent_series). Residuals. [Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere); [meromorphic functions](https://en.wikipedia.org/wiki/Meromorphic_function).
 [Maximum modulus theorem](https://en.wikipedia.org/wiki/Maximum_modulus_principle).
 [Schwartz lemma](https://en.wikipedia.org/wiki/Schwarz_lemma).
-Möbius mappings; cross-ratio.
-Normal families, [Montel’s theorem](https://en.wikipedia.org/wiki/Montel's_theorem).
+[Möbius mappings](https://en.wikipedia.org/wiki/Möbius_transformation); [cross-ratio](https://en.wikipedia.org/wiki/Cross-ratio).
+[Normal families](https://en.wikipedia.org/wiki/Normal_family), [Montel’s theorem](https://en.wikipedia.org/wiki/Montel%27s_theorem).
 [Riemann mapping theorem](https://en.wikipedia.org/wiki/Riemann_mapping_theorem).
 Additional topics.
 
@@ -87,12 +87,12 @@ the textbook presents a simpler analytic proof by Newman, as modified by Korevaa
 First 13 chapters (125 pages) correspond approximately to PG course.
 The book has 30 chapters and 480 pages, with the later chapters
 about Riemann's zeta function, Dirichlet series and his theorem on primes in arithmetic progressions,
-elliptic integrals, modular forms, theta functions, Riemann surfaces and Riemann-Roch theorem.
+elliptic integrals, modular forms, theta functions, Riemann surfaces and Riemann--Roch theorem.
 
 #### Bibliografia básica para PG / Basic PG bibliography
 
-- Gamelin, T.W. Complex analysis. Springer, 2001;
-- Conway, J.B. Functions of one complex variable I. Springer; 2nd edition (1978);
+- Gamelin, T. W. Complex analysis. Springer, 2001;
+- Conway, J. B. Functions of one complex variable I. Springer; 2nd edition (1978);
 - Needham, T. Visual complex analysis. Oxford, 1999.
 
 #### Bibliografia para graduação / UG bibliography
@@ -108,7 +108,7 @@ Complementar
 - Boas, R. P. A Primer of real functions. 2. ed.; Buffalo: Mathematical Association of America, 1972.
 - Ávila, G. Introdução à Análise Matemática; São Paulo: Ed. Edgard Blucher, 1999.
 - Lins Neto, A. Funções de uma variável complexa; Rio de Janeiro: IMPA, 1996.
-- Conway, J.B. Functions of One Complex Variable I. 2a edição; New York: Springer, 1978.
+- Conway, J. B. Functions of One Complex Variable I. 2a edição; New York: Springer, 1978.
 
 #### Pré-requisitos (graduação)
 MAT1604
