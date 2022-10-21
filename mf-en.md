@@ -204,7 +204,7 @@ BBC interview with mathematicians
 - Introduction to complex variable
 - Introduction to topology (fundamental group and coverings)
 - Riemann surfaces I, II
-- * Number theory
 - Algebraic structures
+- (Number theory)
 
 
