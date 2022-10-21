@@ -1,4 +1,3 @@
-\newpage
 ### Riemann Surfaces
 
 The theory of Riemann surfaces occupies a very special place in mathematics. It is a culmination of much of traditional calculus, making surprising connections with geometry and arithmetic. It is an extremely useful part of mathematics, knowledge of which is needed by specialists in many other fields. It provides a model for a large number of more recent developments in areas including manifold topology, global analysis, algebraic geometry, Riemannian geometry, and diverse topics in mathematical physics.
