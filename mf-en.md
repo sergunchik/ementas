@@ -113,8 +113,8 @@ or can convince yourself that you understand it.
 The student interested in applications to number theory, combinatorics or algebraic geometry,
 but without training in either complex or harmonic analysis
 is suggested to try the course anyway, but to write down all new analytic theorems or techniques,
-and study simultaneously in the course of complex variable (which I strongly suggest to everybody anyway)
-or in next semester's introduction to Fourier analysis.
+and study simultaneously in the courses of introduction to Fourier analysis and complex variable
+(which I strongly suggest to everybody anyway).
 
 
 ### Bibliography
@@ -200,12 +200,9 @@ BBC interview with mathematicians
 
 #### Related courses
 
-- Introduction to Fourier analysis.
+- Introduction to Fourier analysis
 - Introduction to complex variable
 - Introduction to topology (fundamental group and coverings)
 - Riemann surfaces I, II
 - * Number theory
-
-
-
-
+- 
