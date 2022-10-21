@@ -99,7 +99,7 @@ but not of Little Picard Theorem
 > An integral function never 0 or 1 is constant.
 
 In fact, Picard's original proof is an application of Liouville's theorem to a _modular function_
-$\lambda = 16 q - 128 q^2 + 704 q^3 - 3072 q^4 + ...$. 
+$\lambda = 16 q - 128 q^2 + 704 q^3 - 3072 q^4 + ...$ 
 
 Similarly we will use Poisson summation formula,
 
