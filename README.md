@@ -1,6 +1,6 @@
 Ementas:
 
-- [complex - Complex Analysis](complex.md)
+- [complex - Complex Analysis / Análise Complexa](complex.md)
 - [itop - Introdução à Topologia](itop-pt.md)
 
 - [RS	- Riemann Surfaces (Simon Donaldson)](rs-en.md) / [Superfícies de Riemann](rs-pt.md)
