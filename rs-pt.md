@@ -117,7 +117,7 @@ mas com espírito e material de geometria/topologia extra em seu tratamento.
 14. **Mapeamentos e Módulos**:
 	- Diffeomorfismos do plano.
 	- Tranças {braids}, torções {twists} de Dehn e singularidades quadráticas:
-         classificação das recobrimentos ramificados,
+         classificação dos recobrimentos ramificados,
 	 monodromia e torções de Dehn,
 	 curvas planas.
 	- Geometria hiperbólica.
