@@ -11,6 +11,9 @@
 
 O curso pode ser útil para os interessados em aritmética e geometria, combinatória, álgebra, equações diferenciais, geometria algébrica e aplicações de análise a estes tópicos.
 
-*Pré-requisitos*: conhecimentos básicos de substituição, diferenciação (lei de Leibniz) e análise complexa (fórmula de Cauchy).
+*Pré-requisitos*: conhecimentos básicos de substituição, diferenciação (regra de Leibniz) e análise complexa (fórmula de Cauchy).
 
 **Bibliografia**. Don Zagier: Elliptic modular forms and their applications. The 1-2-3 of modular forms. Springer Berlin Heidelberg, 2008. 1-103.
+
+
+[Veja a versão inglês dessa ementa ampliada](mf-en.md)

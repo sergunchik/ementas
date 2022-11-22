@@ -99,7 +99,7 @@ but not of Little Picard Theorem
 > An integral function never 0 or 1 is constant.
 
 In fact, Picard's original proof is an application of Liouville's theorem to a _modular function_
-$\lambda = 16 q - 128 q^2 + 704 q^3 - 3072 q^4 + ...$. 
+$\lambda = 16 q - 128 q^2 + 704 q^3 - 3072 q^4 + ...$ 
 
 Similarly we will use Poisson summation formula,
 
@@ -113,8 +113,8 @@ or can convince yourself that you understand it.
 The student interested in applications to number theory, combinatorics or algebraic geometry,
 but without training in either complex or harmonic analysis
 is suggested to try the course anyway, but to write down all new analytic theorems or techniques,
-and study simultaneously in the course of complex variable (which I strongly suggest to everybody anyway)
-or in next semester's introduction to Fourier analysis.
+and study simultaneously in the courses of introduction to Fourier analysis and complex variable
+(which I strongly suggest to everybody anyway).
 
 
 ### Bibliography
@@ -200,12 +200,11 @@ BBC interview with mathematicians
 
 #### Related courses
 
-- Introduction to Fourier analysis.
+- Introduction to Fourier analysis
 - Introduction to complex variable
 - Introduction to topology (fundamental group and coverings)
 - Riemann surfaces I, II
-- * Number theory
-
-
+- Algebraic structures
+- (Number theory)
 
 

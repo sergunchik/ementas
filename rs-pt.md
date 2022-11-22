@@ -113,8 +113,8 @@ mas com espírito e material de geometria/topologia extra em seu tratamento.
    iii. Cálculo sobre superfícies de Riemann: decomposição das 1-formas;
 		o operador de Laplace e funções harmônicas;
 		a norma de Dirichlet.
- 6. **Funções e integrais e elípticas**:
-	Integrais elípticos.
+ 6. **Funções e integrais elípticas**:
+	Integrais elípticas.
 	A função P de Weierstrass.
 	Outros tópicos: funções teta, classificação.
  7. **Aplicações da característica de Euler**:
@@ -167,7 +167,7 @@ mas com espírito e material de geometria/topologia extra em seu tratamento.
 14. **Mapeamentos e Módulos**:
 	- Diffeomorfismos do plano.
 	- Tranças {braids}, torções {twists} de Dehn e singularidades quadráticas:
-         classificação das recobrimentos ramificados,
+         classificação dos recobrimentos ramificados,
 	 monodromia e torções de Dehn,
 	 curvas planas.
 	- Geometria hiperbólica.
