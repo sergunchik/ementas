@@ -1,4 +1,3 @@
-\newpage
 ### Riemann Surfaces
 
 The theory of Riemann surfaces occupies a very special place in mathematics. It is a culmination of much of traditional calculus, making surprising connections with geometry and arithmetic. It is an extremely useful part of mathematics, knowledge of which is needed by specialists in many other fields. It provides a model for a large number of more recent developments in areas including manifold topology, global analysis, algebraic geometry, Riemannian geometry, and diverse topics in mathematical physics.
@@ -11,6 +10,13 @@ We will follow
 Oxford graduate texts in mathematics, 22. (2011)
 
 See <https://www.maa.org/press/maa-reviews/riemann-surfaces>
+
+Preliminaries: complex variable. See e.g. the following textbook for a postgraduate level introduction in modern language:
+
+-  Carlos A. Berenstein, Roger Gay: Complex variables: an introduction.
+650 pages.
+Graduate Texts in Mathematics, 125. (1991) Springer. ISBN 3-540-97349-4
+
 
 Also see the bibliography of MAT2815 and MAT2816 below.
  

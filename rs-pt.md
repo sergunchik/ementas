@@ -1,7 +1,50 @@
-### Superfícies de Riemann
+### Superfícies de Riemann (I - MAT2815, II - MAT2816)
 A teoria das superfícies de Riemann ocupa um lugar muito especial na matemática. É o culminar de muito da análise (e cálculo) tradicional, fazendo conexões surpreendentes com a geometria e a aritmética. É uma parte extremamente útil da matemática, cujo conhecimento é necessário para os especialistas em muitas outras áreas. Fornece um modelo para um grande número de desenvolvimentos mais recentes em áreas que incluem topologia das variedades, análise global, geometria algébrica, geometria Riemanniana e diversos tópicos em física matemática.
 
-### Bibliografia
+#### Cursos relacionados de <http://www.mat.puc-rio.br/en/syllabi#graduate-program>
+
+##### MAT2815 - Superfícies de Riemann I
+
+###### Ementa
+Definição de superfície de Riemann.
+Aplicações holomorfas e suas propriedades.
+Cartas isotérmicas.
+Construção de superfícies de Riemann.
+Superfície de Riemann de uma equação algébrica.
+Estruturas conformes.
+Recobrimentos ramificados.
+Fórmula de Hurwitz.
+Relação de Riemann.
+Continuação analítica.
+Teorema da uniformização, demonstração e exemplos: o disco unitário como recobrimento universal da esfera menos três pontos.
+Superfícies de Riemann como quociente de seu recobrimento universal, teorema de Koebe--Poincaré.
+Estruturas conformes sobre o toro.
+Função P de Weierstrass e outras funções elípticas.
+Estruturas conformes sobre anéis.
+Grande teorema de Picard.
+
+###### Bibliografia básica:
+ 1. Ahlfors, L. Conformal Invariants. McGraw-Hill 1973.
+ 2. Sá Earp, R.; Toubiana, E. Introduction à la géométrie hyperbolique et aux surfaces de Riemann. Cassini, 2009.
+ 3. da Costa, C.J. Funções elípticas, algébricas e superfícies mínimas. 18.o Colóquio Brasileiro de Matemática, IMPA, 1991.
+
+
+##### MAT2816 - Superfícies de Riemann II
+
+###### Ementa
+Feixes. Funções algébricas. Grupo fundamental e (co)homologia singular das superfícies de Riemann compactas. Monodromia. Curvas algébricas. Divisores, fibrados em retas, fibrado canônico. Sistemas lineares, aplicações no espaço projetivo. Coomologia de feixes, teoremas de finitude. Teorema de Dolbeault. Dualidade de Serre. Teorema de Riemann--Roch. Formas harmônicas. Anulamento da coomologia, fibrados em retas amplos, imersão no espaço projetivo. Curvas hiperelípticas. Grupo de Picard. Jacobiana. Teorema de Abel. Teorema de Jacobi. Aplicações às curvas algébricas e as suas Jacobianas.
+ 
+###### Bibliografia básica:
+ 1. Foster, O. Lectures on Riemann Surfaces, Springer--Verlag, 1981
+ 2. Narasimhan, R. Compact Riemann Surfaces, Birkhäuser, 1996.
+ 3. Miranda, R. Curvas Algébricas e Superfícies Riemann, American Mathematical Society, 1995.
+ 
+Bibliografia adicional:
+ 4. Gunning, R.C. Lectures on Riemann Surfaces, Princeton University Press, 1966.
+
+
+
+### Bibliografia neste curso
 Seguiremos 
 
 - Simon Donaldson: Riemann Surfaces.
@@ -10,9 +53,16 @@ Oxford textos de graduação em matemática, 22. (2011)
 
 Ver <https://www.maa.org/press/maa-reviews/riemann-surfaces>
 
-Também veja bibliografia de MAT2815 e MAT2816 embaixo.
+Preliminares: variável complexa. Veja e.g. o seguinte livro texto para introdução em linguagem moderna no nível de pós:
 
-#### Sobre o livro texto
+-  Carlos A. Berenstein, Roger Gay: Complex variables: an introduction. Graduate Texts in Mathematics 125. Springer. 650pp. 1991. ISBN 3-540-97349-4
+
+
+Também veja bibliografia de MAT2815 e MAT2816 acima.
+
+
+
+#### Sobre o livro texto de Simon Donaldson
 Este texto de (pós-)graduação sobre a teoria de superfície de Riemann prova os resultados analíticos fundamentais sobre a existência de funções meromórficas e o Teorema da Uniformização. A abordagem adotada enfatiza os métodos de EDP, aplicáveis de forma mais geral na análise global. A conexão com a topologia geométrica, e em particular o papel do grupo de classes de mapeamento, também é explicada. Para este fim, alguns tópicos mais sofisticados foram incluídos, em comparação com os textos tradicionais neste nível. Embora o tratamento seja novo, as raízes do assunto no cálculo tradicional e na análise complexa são mantidas bem em mente.
 
 A Parte I estabelece a interação entre análise complexa e topologia, com esta última tratada informalmente. A Parte II funciona como um primeiro curso rápido da teoria da superfícies de Riemann, incluindo curvas elípticas. O núcleo do livro está contido na Parte III, onde os resultados analíticos fundamentais são provados.
@@ -129,44 +179,4 @@ mas com espírito e material de geometria/topologia extra em seu tratamento.
 	 a conexão de Gauss--Manin,
 	 pontos singulares.
 
-#### Cursos relacionados de <http://www.mat.puc-rio.br/en/syllabi#graduate-program>
-
-##### MAT2815 - Superfícies de Riemann I
-
-###### Ementa
-Definição de superfície de Riemann.
-Aplicações holomórfas e suas propriedades.
-Cartas isotérmicas.
-Construção de superfícies de Riemann.
-Superfície de Riemann de uma equação algébrica.
-Estruturas conformes.
-Recobrimentos ramificados.
-Fórmula de Hurwitz.
-Relação de Riemann.
-Continuação analítica.
-Teorema da uniformização, demonstração e exemplos: o disco unitário como recobrimento universal da esfera menos três pontos.
-Superfícies de Riemann como quociente de seu recobrimento universal, teorema de Koebe--Poincaré.
-Estruturas conformes sobre o toro.
-Função P de Weierstrass e outras funções elípticas.
-Estruturas conformes sobre anéis.
-Grande teorema de Picard.
-
-###### Bibliografia básica:
- 1. Ahlfors, L. Conformal Invariants. McGraw-Hill 1973.
- 2. Sá Earp, R.; Toubiana, E. Introduction à la géométrie hyperbolique et aux surfaces de Riemann. Cassini, 2009.
- 3. da Costa, C.J. Funções elípticas, algébricas e superfícies mínimas. 18.o Colóquio Brasileiro de Matemática, IMPA, 1991.
-
-
-##### MAT2816 - Superfícies de Riemann II
-
-###### Ementa
-Feixes. Funções algébricas. Grupo fundamental e (co)homologia singular das superfícies de Riemann compactas. Monodromia. Curvas algébricas. Divisores, fibrados em retas, fibrado canônico. Sistemas lineares, aplicações no espaço projetivo. Cohomologia de feixes, teoremas de finitude. Teorema de Dolbeault. Dualidade de Serre. Teorema de Riemann-Roch. Formas harmônicas. Anulamento da cohomologia, fibrados em retas amplos, imersão no espaço projetivo. Curvas hiperélipticas. Grupo de Picard. Jacobiana. Teorema de Abel. Teorema de Jacobi. Aplicações às curvas algébricas e as suas Jacobianas.
- 
-###### Bibliografia básica:
- 1. Foster, O. Lectures on Riemann Surfaces, Springer-Verlag, 1981
- 2. Narasimhan, R. Compact Riemann Surfaces, Birkhäuser, 1996.
- 3. Miranda, R. Curvas Algébricas e Superfícies Riemann, American Mathematical Society, 1995.
- 
-Bibliografia adicional:
- 4. Gunning, R.C. Lectures on Riemann Surfaces, Princeton University Press, 1966.
 
