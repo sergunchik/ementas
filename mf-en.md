@@ -15,11 +15,10 @@ Functional equation for Riemann's zeta-function
 
 #### For whom
 
-Course might be useful for those interested in applications of analysis to arithmetics and geometry, combinatorics, algebra, differential equations, algebraic geometry.
+Course might be useful for those interested in applications of classical complex analysis to arithmetics and geometry, combinatorics, algebra, differential equations, algebraic geometry and mathematical physics.
 
-####
 
-\newpage
+
 #### Teaser: modular form as the fifth element
 
 Fermat Last Theorem claims that the equation $x^n+y^n=z^n$ does not have natural solutions for $n>2$.
