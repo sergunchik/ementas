@@ -168,7 +168,6 @@ Graduate texts in mathematics, 228. 2005. 436 p.
 <https://wstein.org/books/modform/stein-modform.pdf>
 "This is a textbook about algorithms for computing with modular forms. It is nontraditional in that the primary focus is not on underlying theory; instead, it answers the question “how do you explicitly compute spaces of modular forms?”"
 And see the reference to SageMath software below.
-- Janos Kollar: Shafarevich Maps and Automorphic Forms, Princeton University Press, 1995. 199 pages.
 
 
 
@@ -199,11 +198,11 @@ BBC interview with mathematicians
 
 #### Related courses
 
-- Introduction to Fourier analysis
-- Introduction to complex variable
-- Introduction to topology (fundamental group and coverings)
-- Riemann surfaces I, II
-- Algebraic structures
+- Introduction to Fourier analysis [MAT2640](https://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=mat2640)
+- [Introduction to complex variable](complex.md)
+- [Introduction to topology](itop.md) (fundamental group and coverings)
+- [Riemann surfaces I, II](rs-en.md)
+- [Algebraic structures](http://mat.puc-rio.br/~sergey/as.html)
 - (Number theory)
 
 
