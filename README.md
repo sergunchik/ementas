@@ -18,13 +18,13 @@ Older courses at PUC-Rio:
 - 20.1: [ca] [Commutative Algebra](http://mat.puc-rio.br/~sergey/ca.html)
 - 19.2: [tg] [Topics in Geometry](http://mat.puc-rio.br/~sergey/tg.html)
 
-Some courses before PUC-Rio:
-- 16.2: [Symmetries and Moduli Spaces](https://mediaserver.unige.ch/collection/VN3-222c-2016-2017) [video]
-- 16.1: [Algebraic Surfaces](http://mat.puc-rio.br/~sergey/surfaces.html)
-- 15.2: [Proofs of Irrationality](http://mat.puc-rio.br/~sergey/rat.html)
-- 14.1: [Projective Geometry](http://mat.puc-rio.br/~sergey/pg.html)
+Some other courses (not in PUC-Rio):
+- 16.2: [Symmetries and Moduli Spaces](https://mediaserver.unige.ch/collection/VN3-222c-2016-2017) for Master Class in Geometry, Topology and Physics in University of Geneva
+- 16.1: [Algebraic Surfaces](http://mat.puc-rio.br/~sergey/surfaces.html) for HSE University
+- 15.2: [Proofs of Irrationality](http://mat.puc-rio.br/~sergey/rat.html) for Independent University of Moscow
+- 14.1: [Projective Geometry](http://mat.puc-rio.br/~sergey/pg.html) for Moscow Institute of Physics and Technology
 
-Syllabi for other potential courses:
+Syllabi for other potential courses for PUC-Rio:
 - [eag]	 [Elementary Algebraic Geometry](eag.md)
 - [eat]	 [Elementary Applied Topology](eat.md)
 - [cat]  [Teoria de categorias básica](http://mat.puc-rio.br/~sergey/categorias.html)
