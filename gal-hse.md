@@ -25,7 +25,7 @@ Capacidade de resolver problemas no arranjo mútuo de linhas e pontos no espaço
 - Autovetores e autosubespaços de operadores lineares.
 - Diagonalização simultânea de um conjunto arbitrário de operadores lineares que comutam entre si, autovetores comuns deles.
 - Formas bilineares, suas correlações e matrizes de Gram, transformação da matriz de Gram ao substituir a base.
-- Ortogonalização de uma forma bilinear simétrica sobre um corpo arbitrário, especialização sobre os corpos de números reais $\mathbf{R}$, números complexos $\C$ e corpos finitos $\mathbf{F}_p$.
+- Ortogonalização de uma forma bilinear simétrica sobre um corpo arbitrário, especialização sobre os corpos de números reais $\mathbf{R}$, números complexos $\mathbf{C}$ e corpos finitos $\mathbf{F}_p$.
 - Formas bilineares anti-simétricas.
 - Espaços projetivos e a projetivização de um espaço vetorial, coordenadas homogêneas, mapas afins e coordenadas afins locais.
 - Ágebra simétrica do espaço vetorial e definição de figuras por equações homogêneas, fechamento projetivo de uma hipersuperfície afim.
