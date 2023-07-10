@@ -27,4 +27,4 @@ Some other courses (not in PUC-Rio):
 Syllabi for other potential courses for PUC-Rio:
 - [eag]	 [Elementary Algebraic Geometry](eag.md)
 - [eat]	 [Elementary Applied Topology](eat.md)
-- [cat]  [Teoria de categorias básica](http://mat.puc-rio.br/~sergey/categorias.html)
+- [cat]  [Teoria de categorias básica](cat.md)
