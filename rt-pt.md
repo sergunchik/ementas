@@ -1,34 +1,34 @@
 # [MAT2817](https://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=MAT2817) -- Teoria da Representação
 
 ## Ementa
-- REPRESENTACOES DE GRUPOS FINITOS.
-- LEMA DE SCHUR. 
-- CARATERES. 
-- FUNCOES DE CLASSE, REPRESENTACOES IRREDUTIVEIS E CLASSES DE CONJUGACAO.
-- REPRESENTACAO REGULAR.
-- REPRESENTACOES INDUZIDAS E RESTRITAS.
-- RECIPROCIDADE DE FROBENIUS.
-- ALGEBRA GRUPAL. APLICACOES.
-- ELEMENTOS DE GRUPOS DE LIE E ALGEBRAS DE LIE.
-- TEOREMAS DE LIE.
-- FORMA DE KILLING.
-- ALGEBRAS DE LIE SEMI-SIMPLES.
-- SUBALGEBRAS DE CARTAN.
-- TOROS MAXIMAIS.
-- RAIZES.
-- ESPACOS DE PESOS.
-- GRUPO DE WEYL.
-- TRUQUE UNITARIO PARA GRUPOS DE LIE COMPACTOS.
-- REPRESENTACOES DE GRUPOS COMPACTOS. APLICACOES.
-- REPRESENTACOES IRREDUTIVEIS DE SL (N,C) E GL (N,C). 
+- Representações de grupos finitos.
+- Lema de Schur. 
+- Caráteres. 
+- Funções de classe, representações irredutíveis e classes de conjugação.
+- Representação regular.
+- Representações induzidas e restritas.
+- Reciprocidade de Frobenius.
+- Algebra grupal. Aplicações.
+- Elementos de grupos de Lie e algebras de Lie.
+- Teoremas de Lie.
+- Forma de killing.
+- Álgebras de Lie semi-simples.
+- Subálgebras de Cartan.
+- Toros maximais.
+- Raízes.
+- Espaços de pesos.
+- Grupo de Weyl.
+- Truque unitário para grupos de Lie compactos.
+- Representações de grupos compactos. Aplicações.
+- Representações irredutíveis de $sl(n,C)$ e $gl(n,C)$. 
 
-## BIBLIOGRAFIA BASICA: 
-- SIMON, B.. REPRESENTATIONS OF FINITE AND COMPACT GROUPS. AMS, 1995.
-- KIRILOV JR., A.. AN INTRODUCTION TO LIE GROUPS AND LIE ALGEBRAS. CAMBRIDGE UNIVESITY PRESS, 2008.
-- HUMPHREYS, J.E.. INTRO DUCTION TO LIE ALGEBRAS AND REPRESENTATION THEORY. SPRINGER-VERLAG, 1973. 
-
-## BIBLIOGRAFIA COMPLEMENTAR: 
-- FULTON, W.; HARRIS, J.. REPRESENTATION THEORY. SPRINGER-VERLAG, 1991.
-- BUMP, D.. LIE GROUPS. SPRINGER-VERLAG, 2011.
-- MILLER, W.. SYMMETRY GROUPS AND THEIR APPLICATIONS. ELSEVIER, 1972.
+## bibliografia 
+- básica: 
+  - B. Simon: Representations of finite and compact groups. AMS, 1995.
+  - A. Kirillov Jr.: [An introduction to Lie groups and Lie algebras](https://www.math.stonybrook.edu/~kirillov/liegroups/). Cambridge University Press, 2008.
+  - J.E. Humphreys: Introduction to Lie algebras and representation theory. Springer Verlag, 1973. 
+- complementar: 
+  - W. Fulton, J. Harris: Representation theory. Springer Verlag, 1991.
+  - D. Bump: Lie groups. Springer Verlag, 2011.
+  - W. Miller: Symmetry groups and their applications. Elsevier, 1972.
 
