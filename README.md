@@ -1,8 +1,9 @@
 Ementas / Syllabi:
 
 Current courses at PUC-Rio:
+- 23.2 [rt]      Representation Theory / [Teoria da Representação](rt-pt.md)   
+- 23.1-23.2 [rs] [Riemann Surfaces I,II](rs-en.md) / [Superfícies de Riemann I,II](rs-pt.md)
 - 23.1 [evtl]    [Linear Algebra / Álgebra Linear](evtl.md)
-- 23.1 [rs]      [Riemann Surfaces](rs-en.md) / [Superfícies de Riemann](rs-pt.md)
 - 23.0 [mf]      [Modular Forms](mf-en.md) / [Fórmas Modulares](mf-pt.md) 
 
 Older courses at PUC-Rio:
