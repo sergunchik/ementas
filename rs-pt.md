@@ -83,7 +83,7 @@ então é provavelmente realista chegar ao Capítulo 9.
 
 Para o DMAT PUC-Rio o livro corresponde a dois cursos de pós-graduação semestrais, 3 créditos cada:
 Superfícies de Riemann I (MAT2815) e Superfícies de Riemann II (MAT2816),
-com o ponto de demarcação em algum lugar em torno dos Capítulos 9-10-11,
+com o ponto de demarcação em algum lugar em torno de Capítulos 8-9,
 mas com espírito e material de geometria/topologia extra em seu tratamento.
 
 #### Conteúdo
