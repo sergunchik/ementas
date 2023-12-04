@@ -1,16 +1,21 @@
 Ementas / Syllabi:
 
+Coming:
+
+- 24.0: [Gauge theory and moduli spaces](gauge.md)
+- 24.0 [Quantum Topology](qt.md)
+
 Current courses at PUC-Rio:
 - 23.2: [Riemann Surfaces II](rs-en.md) / [Superfícies de Riemann II](rs-pt.md)
-- 23.2: [Representation Theory / Teoria da Representação](rt.md)   
+- 23.2: [Representation Theory / Teoria da representação](rt.md)   
 
 Older courses at PUC-Rio:
 - 23.1: [Riemann Surfaces I](rs-en.md) / [Superfícies de Riemann I](rs-pt.md)
 - 23.1: [Linear Algebra / Álgebra Linear](evtl.md)
-- 23.0: [Modular Forms](mf-en.md) / [Fórmas Modulares](mf-pt.md) 
+- 23.0: [Modular Forms](mf-en.md) / [Fórmas modulares](mf-pt.md) 
 - 22.2: [Algebraic Geometry and Statistical Learning Theory](agslt.md)
-- 22.2: [Complex Analysis / Análise Complexa](cv.md)
-- 22.1: [Introdução à Topologia](itop-pt.md)
+- 22.2: [Complex Analysis / Análise complexa](cv.md)
+- 22.1: [Introdução à topologia](itop-pt.md)
 - 22.1: [Algebraic Structures I / Estruturas algébricas I](http://mat.puc-rio.br/~sergey/ea/)
 - 21.2: [Algebraic Structures II / Estruturas algébricas II](http://mat.puc-rio.br/~sergey/ea/galois.html)
 - 21.2: [Lógica, provas e LEAN](http://mat.puc-rio.br/~sergey/provas.html)

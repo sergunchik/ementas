@@ -77,14 +77,14 @@ but with extra spirit and material of geometry/topology in its treatment.
  7. **Applications of the Euler characteristic**:
 	The Euler characteristic and meromorphic forms.
 	Applications:
-	 the Riemann-Hurwitz formula,
-	 the degree-genus formula,
+	 the Riemann--Hurwitz formula,
+	 the degree--genus formula,
 	 real structures and Harnack's bound,
 	 modular curves.
 - III Deeper Theory 
  8. **Meromorphic Functions and the Main Theorem for Compact Riemann Surfaces**
 	Consequences of the Main Theorem.
-	The Riemann-Roch formula.
+	The Riemann--Roch formula.
  9. **Proof of the Main Theorem**:
 	Discussion and motivation.
 	The Riesz Representation Theorem.
@@ -113,7 +113,7 @@ but with extra spirit and material of geometry/topology in its treatment.
 	 line bundles and projective embeddings,
 	 divisors and unique factorization.
 	- Jacobians of Riemann surfaces:
-	 the Abel-Jacobi Theorem,
+	 the Abel--Jacobi Theorem,
 	 abstract theory,
 	 geometry of symmetric products,
 	 remarks in the direction of algebraic topology
@@ -141,7 +141,7 @@ but with extra spirit and material of geometry/topology in its treatment.
 ##### MAT2815 - Riemann Surfaces I
 
 ###### Syllabus
-Definition of Riemann surface. Holomorphic maps and their properties. Isothermal parameters. Construction of Riemann surfaces. Riemann surface of an algebraic equation. Conformal structures. Branched coverings. Hurwitz formula. Riemann relation. Analytic continuation. Uniformization theorem, proof and examples: the unit disc as the universal covering of the sphere minus three points. Riemann surfaces as quotient of its universal covering surface, Koebe-Poincaré theorem. Conformal structures on the tori. Weierstrass P function and other elliptic functions. Conformal structures on the annuli. Great Picard theorem.
+Definition of Riemann surface. Holomorphic maps and their properties. Isothermal parameters. Construction of Riemann surfaces. Riemann surface of an algebraic equation. Conformal structures. Branched coverings. Hurwitz formula. Riemann relation. Analytic continuation. Uniformization theorem, proof and examples: the unit disc as the universal covering of the sphere minus three points. Riemann surfaces as quotient of its universal covering surface, Koebe--Poincaré theorem. Conformal structures on the tori. Weierstrass P function and other elliptic functions. Conformal structures on the annuli. Great Picard theorem.
  
 ###### Basic Bibliography:
  1. Ahlfors, L. Conformal Invariants. McGraw-Hill 1973.
@@ -151,10 +151,10 @@ Definition of Riemann surface. Holomorphic maps and their properties. Isothermal
 ##### MAT2816 - Riemann Surfaces II
 
 ###### Syllabus
-Sheaves. Algebraic Functions. Fundamental group and singular (co)homology of compact Riemann surfaces. Monodromy. Algebraic Curves. Divisors, line bundles, canonical line bundle. Linear systems, maps to the projective space. Sheaves cohomology, finiteness theorems. Dolbeault's theorem. Serre duality. Riemann-Roch theorem. Harmonic forms. Vanishing of the cohomology, ample line bundles, immersion into the projective space. Hyperellitpic curves. Picard group. Jacobian. Abel's theorem. Jacobi's theorem. Applications to algebraic curves and their jacobians.
+Sheaves. Algebraic Functions. Fundamental group and singular (co)homology of compact Riemann surfaces. Monodromy. Algebraic Curves. Divisors, line bundles, canonical line bundle. Linear systems, maps to the projective space. Sheaves cohomology, finiteness theorems. Dolbeault's theorem. Serre duality. Riemann--Roch theorem. Harmonic forms. Vanishing of the cohomology, ample line bundles, immersion into the projective space. Hyperellitpic curves. Picard group. Jacobian. Abel's theorem. Jacobi's theorem. Applications to algebraic curves and their jacobians.
 
 ###### Basic Bibliography:
- 1. Foster, O. Lectures on Riemann Surfaces, Springer-Verlag, 1981
+ 1. Foster, O. Lectures on Riemann Surfaces, Springer--Verlag, 1981
  2. Narasimhan, R. Compact Riemann Surfaces, Birkhäuser, 1996.
  3. Miranda, R. Algebraic Curves and Riemann Surfaces, American Mathematical Society, 1995.
  
