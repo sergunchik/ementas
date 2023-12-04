@@ -10,7 +10,7 @@ fontsize: 12pt
 geometry: margin=2cm
 ---
 
-## "Gauge theory and moduli spaces: an introduction" 
+## Gauge theory and moduli spaces: an introduction 
   (MAT2425 - Tópicos de Física Matemática I)
 
 ### Público-alvo:   alunos de pós.
