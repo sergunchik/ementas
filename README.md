@@ -20,7 +20,7 @@ Older courses at PUC-Rio:
 - 22.1: [Algebraic Structures I / Estruturas algébricas I](http://mat.puc-rio.br/~sergey/ea/)
 - 21.2: [Algebraic Structures II / Estruturas algébricas II](http://mat.puc-rio.br/~sergey/ea/galois.html)
 - 21.2: [Lógica, provas e LEAN](http://mat.puc-rio.br/~sergey/provas.html)
-- 21.1: [Geometry of Robotics](http://mat.puc-rio.br/~sergey/robo.html)
+- 21.1: [Geometry of Robotics](robo.md)
 - 21.1: Algebraic Structures I / Estruturas algébricas I
 - 20.2: [Algebraic Geometry](http://mat.puc-rio.br/~sergey/age.html) / [Geometria algébrica](http://mat.puc-rio.br/~sergey/ga.html)
 - 20.2  Algebraic Structures II / Estruturas algébricas II
