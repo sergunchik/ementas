@@ -1,14 +1,13 @@
 
 ### Linear Algebra: Vector Spaces and Linear Transformations / Álgebra linear: espaços vetoriais e transformações lineares
+
 - Espaços vetoriais e transformações lineares
   [MAT1223](https://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=MAT1223)
-  /
-  Vector Spaces and Linear Transformations.
+  / Vector Spaces and Linear Transformations
   [MAT1223](http://www.mat.puc-rio.br/en/syllabi#item-12)
-- Álgebra linear.
+- Álgebra linear
   [MAT2215](https://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=MAT2215)
-  /
-  Linear Algebra.
+  / Linear Algebra
   [MAT2215](http://www.mat.puc-rio.br/en/syllabi#item-46)
 
 #### Ementa
