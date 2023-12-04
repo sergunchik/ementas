@@ -17,15 +17,17 @@ geometry: margin=2cm
 
 ### Program
 
-- Basics in gauge theory: bundles, connection and curvature. 
-- Anti-self-duality equations and instantons. 
-- Moment maps and symplectic reduction. 
-- Hyper-Kähler geometry and reduction.
-- The ADHM equations. 
-- The moduli space of instantons and Donaldson’s theorems. 
-- The moduli space of Higgs bundles. 
-- Non-abelian Hodge correspondence. 
-- Hitchin integrable system. 
+- Basics in gauge theory: bundles, connection and curvature.
+- [Anti-self-duality equations](https://en.wikipedia.org/wiki/Yang–Mills_equations#Anti-self-duality_equations)
+  and [instantons](https://en.wikipedia.org/wiki/Instanton). 
+- [Moment maps](https://en.wikipedia.org/wiki/Momentum_map)
+  and [symplectic reduction](https://en.wikipedia.org/wiki/Momentum_map#Symplectic_quotients). 
+- [Hyper-Kähler geometry](https://en.wikipedia.org/wiki/Hyperkähler_manifold) and [reduction](https://en.wikipedia.org/wiki/Hyperkähler_quotient).
+- The [ADHM](https://en.wikipedia.org/wiki/ADHM_construction) equations. 
+- The moduli space of instantons and [Donaldson’s theorems](https://en.wikipedia.org/wiki/Donaldson%27s_theorem). 
+- The moduli space of [Higgs bundles](https://en.wikipedia.org/wiki/Higgs_bundle). 
+- [Non-abelian Hodge correspondence.](https://en.wikipedia.org/wiki/Nonabelian_Hodge_correspondence)
+- [Hitchin integrable system.](https://en.wikipedia.org/wiki/Hitchin_system)
 
 ### Recommended bibliography:
 
@@ -40,3 +42,4 @@ geometry: margin=2cm
 - The geometry of four-manifolds, S. Donaldson, P. Kronheimer, OUP Oxford (1990).
 - Differential Geometry of Complex Vector Bundles, S. Kobayashi, Princeton University Press (1987).
 - Topology, Geometry and Gauge Fields: Interactions, G. Naber, Springer--Verlag.
+- The ADHM construction of Yang-Mills instantons, S. Donaldson, [2205.08639](https://arxiv.org/abs/2205.08639)
