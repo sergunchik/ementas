@@ -1,4 +1,5 @@
-# Algebraic Geometry and Statistical Learning
+
+# Algebraic Geometry and Statistical Learning Theory
 
 On one hand we will introduce the basics of statistical machine learning,
 and on the other the basics of algebraic geometry and singularity theory,
