@@ -10,7 +10,12 @@ fontsize: 12pt
 geometry: margin=2cm
 ---
 
-#### Program:
+## "Gauge theory and moduli spaces: an introduction" 
+  (MAT2425 - Tópicos de Física Matemática I)
+
+### Público-alvo:   alunos de pós.
+
+### Program
 
 - Basics in gauge theory: bundles, connection and curvature. 
 - Anti-self-duality equations and instantons. 
@@ -22,9 +27,9 @@ geometry: margin=2cm
 - Non-abelian Hodge correspondence. 
 - Hitchin integrable system. 
 
-#### Recommended bibliography:
+### Recommended bibliography:
 
-- Geometry of Yang-Mills Fields, M. Atiyah, Accademia Nazionale Dei Lincei Scuola Normale Superiore (1979).
+- Geometry of Yang--Mills Fields, M. Atiyah, Accademia Nazionale Dei Lincei Scuola Normale Superiore (1979).
 - Construction of instantons, M. Atiyah, V. Drinfeld, N. Hitchin, Y. Manin, Phys. Lett. 65A (1978).
 - Instantons and Four-Manifolds, D. Freed, K. Uhlenbeck, Springer--Verlag (1984).
 - Integrable systems: Twistors, loop groups, and Riemann surfaces, N. Hitchin, G. Segal, R. Ward, Vol. 4. OUP Oxford (2013).
