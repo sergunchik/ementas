@@ -9,7 +9,7 @@ Older courses at PUC-Rio:
 - 23.1: [Linear Algebra / Álgebra Linear](evtl.md)
 - 23.0: [Modular Forms](mf-en.md) / [Fórmas Modulares](mf-pt.md) 
 - 22.2: [Algebraic Geometry and Statistical Learning Theory](agslt.md)
-- 22.2: [Complex Analysis / Análise Complexa](complex.md)
+- 22.2: [Complex Analysis / Análise Complexa](cv.md)
 - 22.1: [Introdução à Topologia](itop-pt.md)
 - 22.1: [Estruturas algébricas I](http://mat.puc-rio.br/~sergey/ea/)
 - 21.2: [Estruturas algébricas II](http://mat.puc-rio.br/~sergey/ea/galois.html)
