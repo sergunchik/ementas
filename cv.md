@@ -70,6 +70,7 @@ Additional topics.
 
 #### Bibliografia livre / Free bibliography
 
+- [complex-analysis.com](https://complex-analysis.com) by Juan Carlos Ponce Campuzano, English and Spanish versions of "Complex Analysis. A Visual and Interactive Introduction" / "Análisis complejo. Una introducción visual e interactiva", 2019--2024
 - <https://realnotcomplex.com/analysis/complex-analysis>
 Veja essa página para livros embaixo e mais recursos livres.
 - Matthias Beck, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka:
@@ -82,8 +83,7 @@ Last chapter (7) is an application of complex analysis:
 properties of Riemann's zeta-function
 and a proof of Prime Number Theorem, original analytic proof is by Hadamard and Valleé Poussin,
 the textbook presents a simpler analytic proof by Newman, as modified by Korevaar.
-- Richard Koch: Complex Variables.
-<https://pages.uoregon.edu/koch/ComplexVariables.pdf>
+- Richard Koch: Complex Variables. <https://pages.uoregon.edu/koch/ComplexVariables.pdf>
 First 13 chapters (125 pages) correspond approximately to PG course.
 The book has 30 chapters and 480 pages, with the later chapters
 about Riemann's zeta function, Dirichlet series and his theorem on primes in arithmetic progressions,
