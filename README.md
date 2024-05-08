@@ -1,15 +1,19 @@
 Ementas / Syllabi:
 
 Coming:
-- 24.1: [Complex Geometry / Geometria complexa](complex.md)
-- 24.1: [Linear Algebra / Álgebra linear](evtl.md)
+
+-24.2: ???
 
 Current courses at PUC-Rio:
+
+- 24.1: [Complex Geometry / Geometria complexa](complex.md)
+- 24.1: [Linear Algebra / Álgebra linear](evtl.md)
 - 24.0: [Gauge theory and moduli spaces](gauge.md) by Lucas Branco
 - 24.0: [Quantum Topology](qt.md)
 
 
 Older courses at PUC-Rio:
+
 - 23.2: [Riemann Surfaces II](rs-en.md) / [Superfícies de Riemann II](rs-pt.md)
 - 23.2: [Representation Theory / Teoria da representação](rt.md)   
 - 23.1: [Riemann Surfaces I](rs-en.md) / [Superfícies de Riemann I](rs-pt.md)
