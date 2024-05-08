@@ -2,7 +2,7 @@ Ementas / Syllabi:
 
 Coming:
 
--24.2: ???
+- 24.2: request now
 
 Current courses at PUC-Rio:
 
