@@ -1,6 +1,9 @@
-### [MAT2817](https://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=MAT2817) Representation Theory / Teoria da Representação
+### Representation Theory / Teoria da Representação 
 
-#### Ementa:
+Sigla - [MAT2817](https://www.puc-rio.br/ferramentas/ementas/ementa.aspx?cd=MAT2817) 
+
+#### Ementa
+
 Representações de grupos finitos.
 Lema de Schur. 
 Caráteres. 
@@ -11,7 +14,7 @@ Reciprocidade de Frobenius.
 Algebra grupal. Aplicações.
 Elementos de grupos de Lie e algebras de Lie.
 Teoremas de Lie.
-Forma de killing.
+Forma de Killing.
 Álgebras de Lie semi-simples.
 Subálgebras de Cartan.
 Toros maximais.
@@ -22,6 +25,7 @@ Representações de grupos compactos. Aplicações.
 Representações irredutíveis de $SL(n,C)$ e $GL(n,C)$. 
 
 #### Syllabus
+
 Representations of finite groups.
 Schur's lemma.
 Characters.
