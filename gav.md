@@ -9,6 +9,8 @@ fontsize: 12pt
 geometry: margin=2cm
 ---
 
+#### Geometry of Algebraic Varieties
+
 #### Place, time, schedule
 
 **DMAT PUC-Rio**, **2024.2**, 
@@ -43,8 +45,7 @@ Every student in the beginning of the course is assigned a personalized set of 1
 to solve and explain to others during the semester. Solutions of problems shall take at
 least half of the time, with formulations and necessary explanations or background taking the rest.
 Final grade can be set to any P (at most 10), for which a student delivered at least P problems
-to their peers and instructors, and served at least at 2P sessions as a peer. One student
-is allowed to deliver at most one problem per day.
+to their peers and instructors (Sergey and Lucas), and served at least at 2P sessions as a peer. One student is allowed to deliver at most one problem per day.
 
 
 #### Bibliography
