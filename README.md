@@ -1,14 +1,14 @@
-Syllabi (ementas):
+Syllabi (ementas) of courses in DMAT PUC-Rio:
 
-Coming:
+**Coming**:
 
-- 24.2: request now
+- 24.2: [Geometry of Algebraic Varieties](gv.md) 
 
 Current courses at PUC-Rio:
 
 - 24.1: [Complex Geometry](complex.md)
 - 24.1: [Linear Algebra / Álgebra linear](evtl.md)
-- 24.0: [Gauge theory and moduli spaces](gauge.md) by Lucas Castello Branco
+- 24.0: [Gauge theory and moduli spaces](gauge.md) (by **Lucas Castello Branco**)
 - 24.0: [Quantum Topology](qt.md)
 
 Older courses at PUC-Rio:

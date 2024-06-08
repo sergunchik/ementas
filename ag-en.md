@@ -1,5 +1,7 @@
 ### [Algebraic Geometry](https://en.wikipedia.org/wiki/Algebraic_geometry) [MAT2255]
 
+ [Geometria Algébrica](ag-pt.md)
+
 #### Syllabus
 
 - Affine space.
