@@ -18,7 +18,7 @@ geometry: margin=2cm
 **15h -- 17h.**
 _It is possible to change Thursday to
 Friday morning (before 13h), let me know if this is preferred option._
-Problem assignment: from June 10 to August 21.
+Problem assignment: from June 10 to August 24.
 Public discussion of solutions: from Aug 27 to Dec 13.
 Holidays: Oct 15 (Tue) and Nov 15-20 (Fri,...,Wed).
 So 2 or 3 days out of 16 weeks (and 32 classes) are missing,
