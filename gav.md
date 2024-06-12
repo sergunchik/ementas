@@ -6,7 +6,7 @@ author:
 output: 
   pdf_document
 fontsize: 12pt
-geometry: margin=2cm
+geometry: "left=1cm,right=1cm,top=1cm,bottom=1cm" 
 ---
 
 #### Geometry of Algebraic Varieties
@@ -60,25 +60,20 @@ parts of the theory are delegated to exercises, so students who skipped them mig
 digested the theory.
 
 Problems from other textbooks, such as 
-
-- Huybrechts "Complex Geometry",
-- Voisin "Hodge theory and complex geometry", 
-- Vakil "The Rising Sea: Foundations of Algebraic Geometry",
-- Liu "Introduction to algebraic and arithmetic geometry", 
-- Mukai "Introduction to invariants and moduli",
-- Shafarevich "Basic algebraic geometry",
-- Harris "Algebraic geometry: start up course",
-
+Huybrechts's "Complex geometry",
+Voisin's "Hodge theory and complex algebraic geometry", 
+Vakil's "The rising sea: foundations of algebraic geometry",
+Mukai's "Introduction to invariants and moduli",
+Shafarevich's "Basic algebraic geometry",
+Harris's "Algebraic geometry: start up course",
+Liu's "Algebraic geometry and arithmetic curves", 
 and more specialized books as 
-
-- Beauville "Algebraic surfaces", 
-- Mumford "Abelian varieties", 
-
-based on students' background and intentions,
-so feel free to suggest your bibliography.
+Mumford's "Abelian varieties", 
+Beauville's "Algebraic surfaces", 
+based on students' background and intentions.
+So feel free to suggest your bibliography.
 
 Instructors and students will provide some bonus problems from the pool of their favourite.
-
 E.g.: show or disprove that any algebraic variety is dominated by a product of curves.
 (here variety assumed to be irreducible, and X is said to be dominated by Y
 if there exists a dominant rational map from Y to X).
